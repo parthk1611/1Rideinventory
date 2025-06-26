@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your actual token and brand IDs
-SEMA_TOKEN = "EAAAAGkHfy7iozhSKfzvOzUzMhQCI8BISyAw0eHTGBePzUch5Dg7hGNc_bk6xYBds0ukIQ"
+SEMA_TOKEN = "sema token"
 BRAND_IDS = ["HWWK", "ZUKT", "BBGL", "FBMX", "FCLH", "FDCP"]
 
 def fetch_part_numbers(token, brand_id):
