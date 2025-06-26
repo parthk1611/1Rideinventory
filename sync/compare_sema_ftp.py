@@ -12,7 +12,7 @@ def normalize_part_numbers(series):
     )
 
 # Config: use your actual token and brand ID
-SEMA_TOKEN = "EAAAAGkHfy7iozhSKfzvOzUzMhQCI8BISyAw0eHTGBePzUch5Dg7hGNc_bk6xYBds0ukIQ"
+SEMA_TOKEN = "sema token"
 BRAND_IDS = ["HWWK", "ZUKT", "BBGL", "FBMX", "FCLH", "FDCP"]
 INVENTORY_CSV_PATH = "/tmp/Inventory.csv"
 
